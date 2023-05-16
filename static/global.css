@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Poppins;
+    src: url(./fonts/Poppins-Regular.ttf);
+}
+
+html, body{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+body {
+    font-family: Poppins;
+}
+
+.material-symbols-sharp {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+}
